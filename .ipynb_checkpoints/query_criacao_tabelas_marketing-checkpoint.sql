@@ -1,3 +1,4 @@
+-- código que foi usado para criar as tabelas no mysql --
 use marketing;
 
 create table fb_ads_data_padrao (
