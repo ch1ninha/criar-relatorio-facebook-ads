@@ -10,4 +10,3 @@ A pasta 'access' está sendo ignorada pelo github, basta deixar as info em forma
 Deixar separado por linha e =, ex:
 token=<colocar o token aqui>
 n_ad=<colocar o número da conta de anúncio aqui>
-  
