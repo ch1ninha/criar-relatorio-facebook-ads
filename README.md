@@ -7,7 +7,7 @@ A pasta 'access' está sendo ignorada pelo github, basta deixar as info em forma
 - password_sql.txt:
   Apenas a senha limpa, ex: senha123
 - access_facebook.txt:
-  Deixar separado por linha e =, ex:
-  token=<colocar o token aqui>
-  n_ad=<colocar o número da conta de anúncio aqui>
+Deixar separado por linha e =, ex:
+token=<colocar o token aqui>
+n_ad=<colocar o número da conta de anúncio aqui>
   
